@@ -6,7 +6,10 @@ Medical VAs for BC diagnosis.
 
 3.The database model used in this experiment was based-on the BC diagnosed disease in Chinese language. 
 
-4.The CUI code is available in request. The dataset is available in request.
+4.The CUI code is available in request. 
+
+5.The dataset is available in request.
+
 ------------------------------------------------------------------------------------------------------------------------------------------
  local Setup:
  1. Open command prompt and locate folder. run 'pip install -r requirements.txt'
