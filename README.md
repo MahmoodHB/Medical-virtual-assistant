@@ -15,8 +15,15 @@ Corresponding email (e-mail: mahmood.bidir1985@gmail.com)
 ------------------------------------------------------------------------------------------------------------------------------------------
  local Setup:
  1. Open command prompt and locate folder. run 'pip install -r requirements.txt'
- 2. Run *train.py*
- 3. Run *run.py*
+ 2. Run train.py
+ 3. Run run.py
+ 
+ After setup and you wish to access the chatbot from any network;
+ System specification:
+ 
+ 1.Ubuntu Ios v.18.04 or Apple iOS system 
+ 2.Local server
+ 
 ------------------------------------------------------------------------------------------------------------------------------------------
 ## License
 This source is free to use, but ChatterBot does have a license which still applies and can be found on the [LICENSE](https://github.com/gunthercox/ChatterBot/blob/master/LICENSE) page.
