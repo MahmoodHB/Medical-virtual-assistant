@@ -18,12 +18,12 @@ Corresponding email (e-mail: mahmood.bidir1985@gmail.com)
  2. Run train.py
  3. Run run.py
  
- After setup and you wish to access the chatbot from any network;
+ -After setup and you wish to access the chatbot from any network-
  System specification:
  
- 1.Ubuntu Ios v.18.04 or Apple iOS system 
+ 1. Ubuntu Ios v.18.04 or Apple iOS system 
  
- 2.Local server
+ 2. Local server
  
 ------------------------------------------------------------------------------------------------------------------------------------------
 ## License
