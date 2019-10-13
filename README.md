@@ -18,3 +18,6 @@ Medical VAs for BC diagnosis.
 ------------------------------------------------------------------------------------------------------------------------------------------
 ## License
 This source is free to use, but ChatterBot does have a license which still applies and can be found on the [LICENSE](https://github.com/gunthercox/ChatterBot/blob/master/LICENSE) page.
+
+
+corresponding email (e-mail: mahmood.badder@yahoo.com)
