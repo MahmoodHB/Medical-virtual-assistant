@@ -1,4 +1,4 @@
-# Medical VAs for BC diagnosis.
+Medical VAs for BC diagnosis.
 # The core is consists of several tool techniques includes LSTM neural networks model, bi-gram and tri-gram language modeling, python 3.5  language model, flask framework, SQLAlchemy toolkit and NLTK libraries.
 # The interface front-end mechanism, is divided into two methods the conversational user interfaces (CUI) and web-page interface.
 # The database model used in this experiment was based-on the BC diagnosed disease in Chinese language.
