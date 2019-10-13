@@ -10,6 +10,8 @@ Medical VAs for BC diagnosis.
 
 5. The dataset is available in request.
 
+Corresponding email (e-mail: mahmood.bidir1985@gmail.com)
+
 ------------------------------------------------------------------------------------------------------------------------------------------
  local Setup:
  1. Open command prompt and locate folder. run 'pip install -r requirements.txt'
@@ -20,4 +22,4 @@ Medical VAs for BC diagnosis.
 This source is free to use, but ChatterBot does have a license which still applies and can be found on the [LICENSE](https://github.com/gunthercox/ChatterBot/blob/master/LICENSE) page.
 
 
-corresponding email (e-mail: mahmood.badder@yahoo.com)
+
