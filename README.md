@@ -22,6 +22,7 @@ Corresponding email (e-mail: mahmood.bidir1985@gmail.com)
  System specification:
  
  1.Ubuntu Ios v.18.04 or Apple iOS system 
+ 
  2.Local server
  
 ------------------------------------------------------------------------------------------------------------------------------------------
