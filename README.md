@@ -10,7 +10,7 @@ Medical VAs for BC diagnosis.
 
 5. The dataset is available in request.
 
-Corresponding email (e-mail: mahmood.bidir1985@gmail.com)
+Corresponding email (e-mail: bg69dm@student.sunderland.ac.uk)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
  local Setup:
