@@ -29,5 +29,7 @@ Corresponding email (e-mail: bg69dm@student.sunderland.ac.uk)
 ## License
 This source is free to use, but ChatterBot does have a license which still applies and can be found on the [LICENSE](https://github.com/gunthercox/ChatterBot/blob/master/LICENSE) page.
 
+For More information about this work you can access http://www.iieta.org/journals/ria/paper/10.18280/ria.330401
+
 
 
