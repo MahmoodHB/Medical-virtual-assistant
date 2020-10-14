@@ -25,7 +25,7 @@ Corresponding email (e-mail: mahmood.bidir1985@gmail.com)
  
  1. Ubuntu Ios v.18.04 or Apple iOS system 
  
- 2. Local server
+ 2. Local server free of use
  
 ------------------------------------------------------------------------------------------------------------------------------------------
 ## License
