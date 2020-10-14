@@ -9,6 +9,7 @@ Medical VAs for BC diagnosis.
 4. The CUI code is available in request. 
 
 5. The dataset is available in http://biogps.org/dataset/tag/breast%20cancer/?page=2.
+6- The code can be found at this website: https://github.com/atulyakumar97/NLP-chatbot
 
 Corresponding email (e-mail: mahmood.bidir1985@gmail.com)
 
